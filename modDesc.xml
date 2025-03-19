@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="96">
+  <author>Leo</author>
+  <version>0.0.0.1</version>
+  <title>
+    <en>Thunderfarming Misti</en>
+  </title>
+  <description>
+    <en><![CDATA[
+Category: Manure Spreaders
+Price: $67,000
+Required power: 150 hp
+Working speed: 25 kph
+Capacity: 49 m³
+]]></en>
+    <de><![CDATA[
+Shopkategorie: Miststreuer
+Preis: 67.000€
+Benötigte Leistung: 150 PS
+Arbeitsgeschwindigkeit: 25 km/h
+Kapazität: 49 m³
+]]></de>
+  </description>
+  <iconFilename>store/icon_misti.dds</iconFilename>
+  <storeItems>
+    <storeItem xmlFilename="xml/misti.xml" />
+  </storeItems>
+  <brands>
+    <brand title="Thunderfarming" image="brand/brand_ThF.dds" name="Thunderfarming" />
+  </brands>
+  <multiplayer supported="true" />
+  <site link="" title="" />
+</modDesc>
